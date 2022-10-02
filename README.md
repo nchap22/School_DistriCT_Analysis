@@ -1,5 +1,5 @@
 # School_DistriCT_Analysis
-## In the cell below, write a few sentences to describe any discoveries you made while performing your analysis along with any additional analysis you believe would be worthwhile.
+### In the cell below, write a few sentences to describe any discoveries you made while performing your analysis along with any additional analysis you believe would be worthwhile.
 
 The math mean score is below: student_df["math_score"].mean() = 64.67
 
